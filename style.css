@@ -1,0 +1,29 @@
+body {
+  background-color: black;
+}
+
+.calculation {
+  margin-bottom: 10px;
+  color: white;
+  font-size: 40px;
+  font-family: Arial;
+}
+
+button {
+  margin-right: 5px;
+  height: 60px;
+  width: 60px;
+  border: none;
+  border-radius: 30px;
+  font-size: 25px;
+  background-color: rgb(66, 66, 66);
+  color: white;
+}
+
+.sign-button {
+  background-color: orange
+}
+
+.clear-button {
+  font-size: 18px;
+}
